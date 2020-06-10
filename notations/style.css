@@ -1,0 +1,29 @@
+button {
+    margin: 0px 0px 20px 0px;
+    padding: 15px 2px 0px 2px;
+    width: 160px;
+    font-weight: bold;
+    color: green;
+}
+
+#checkBoxIcon {
+    border-right: solid 1px white;
+    padding: 0px 4px 0px 0px;
+    float: left;
+    display: block;
+}
+
+#addNote {
+    float: left;
+    padding: 10px 0px 0px 10px;
+    font-size: 17px;
+}
+
+#title, #message, #dateAndTime {
+    width: 210px;
+    margin: 0px 10px 10px 10px;
+}
+
+#title {
+    margin-top: 10px;
+}
