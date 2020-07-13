@@ -1,7 +1,5 @@
 # notations_extension
-Notations extension (chrome)
-
-Extension for Google Chrome browser which can infrom you about your upcoming plans.
+Notations extension (chrome). Extension for Google Chrome browser which can infrom you about your upcoming plans.
 
 1. Download the extension file.
 2. Click three dots in Chrome
